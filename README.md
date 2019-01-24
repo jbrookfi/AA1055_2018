@@ -1,4 +1,4 @@
-# AA1055_2018
-IT for Astronomy :
+# AA1055_MHT_FITS
 
-Odds and Sods....
+Some FITS files from an imaging session during the Alston weekend 2018
+
